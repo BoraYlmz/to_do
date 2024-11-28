@@ -16,9 +16,6 @@ Bu modül, kullanıcıların görevlerini **"Başlamamış"**, **"İşlemde"** v
   <img src="https://github.com/user-attachments/assets/51352d6d-e1ec-48df-9dde-5aea06eccf5e" alt="login_panel" style="width: 300px;" />
   <img src="https://github.com/user-attachments/assets/a558194a-4931-472c-91a1-8cd298c5183b" alt="mail_panel" style="width: 300px;" />
   <img src="https://github.com/user-attachments/assets/4921feb9-64f2-4f2b-b5ee-c813171d61cd" alt="mail_detail" style="width: 300px;" />
-</div>
-
-<div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/9097d0be-d0f6-4ae1-83de-daeab6089865" alt="new_mail" style="width: 300px;" />
   <img src="https://github.com/user-attachments/assets/bcf42d10-a19d-43f2-9827-3f3dd9027edb" alt="message_box_example" style="width: 300px;" />
 </div>
@@ -62,9 +59,6 @@ This module allows users to list their tasks in three different columns: **"Not 
   <img src="https://github.com/user-attachments/assets/51352d6d-e1ec-48df-9dde-5aea06eccf5e" alt="login_panel" style="width: 300px;" />
   <img src="https://github.com/user-attachments/assets/a558194a-4931-472c-91a1-8cd298c5183b" alt="mail_panel" style="width: 300px;" />
   <img src="https://github.com/user-attachments/assets/4921feb9-64f2-4f2b-b5ee-c813171d61cd" alt="mail_detail" style="width: 300px;" />
-</div>
-
-<div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/9097d0be-d0f6-4ae1-83de-daeab6089865" alt="new_mail" style="width: 300px;" />
   <img src="https://github.com/user-attachments/assets/bcf42d10-a19d-43f2-9827-3f3dd9027edb" alt="message_box_example" style="width: 300px;" />
 </div>
