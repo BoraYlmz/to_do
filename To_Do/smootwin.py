@@ -5,7 +5,7 @@ from ctypes import windll
 #or you use a distro of linux, you can try it anyway
 #this code works fine as a exe made in pyinstaller
 
-tk_title = "Os To_Do" # Put here your window title
+tk_title = "To_Do"
 
 rootx=800
 rooty=800
